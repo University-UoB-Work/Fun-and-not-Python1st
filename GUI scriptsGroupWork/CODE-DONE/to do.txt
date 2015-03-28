@@ -1,0 +1,9 @@
+-update use case diagram 
+-create scenarios
+-update class diagram
+
+- presentation ? make sure someone work on that
+-
+-Link main gui to Admin , when he hell george will finish ?!
+
++develop queries for admin(3hours?)
